@@ -1,6 +1,6 @@
 # Projeto React com Tailwind CSS e Redux
 
-Este é um projeto front-end criado com **React**, estilizado utilizando **Tailwind CSS** e gerenciado com **Redux** para o gerenciamento de estado. O objetivo deste projeto é fornecer uma landing page responsiva e bem estruturada utilizando as melhores práticas de desenvolvimento web.
+Este é um projeto front-end criado com **React**, estilizado utilizando **Tailwind CSS** e gerenciado com **Redux** para o gerenciamento de estado. O objetivo deste projeto é fornecer um dashboard com relatórios meteorológicos utilizando as melhores práticas de desenvolvimento web.
 
 ## Tecnologias Utilizadas
 
