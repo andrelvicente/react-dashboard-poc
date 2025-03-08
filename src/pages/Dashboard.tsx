@@ -1,17 +1,16 @@
-import Features from "../components/Features";
+import DashboardSection from "../components/DashboardSection";
 import Footer from "../components/Footer";
-import Hero from "../components/Hero";
 import PrivateHeader from "../components/PrivateHeader";
 
-function HomePage() {
+
+function DashboardPage() {
   return (
     <div className="font-sans bg-gray-50">
       <PrivateHeader />
-      <Hero />
-      <Features />
-      <Footer />
+      <DashboardSection/>
+      <Footer/>
     </div>
   );
 }
 
-export default HomePage;
+export default DashboardPage;
